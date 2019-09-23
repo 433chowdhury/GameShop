@@ -1,2 +1,2 @@
 # GameShop
-A basic web application showing some functionality
+A basic game store showing some functionality
